@@ -7,9 +7,9 @@ Tradução completa para português do Brasil de **Wild West Pioneers**: interfa
 ## Instalação
 
 1. Tenha o [Python 3](https://www.python.org/downloads/) instalado (marque **Add Python to PATH** na instalação).
-2. Baixe este repositório e coloque a pasta `Traducao_PTBR` dentro da pasta do jogo:
+2. Baixe este repositório e coloque a pasta `Traducao_WildWestPioners_PTBR` dentro da pasta do jogo:
    ```
-   Steam\steamapps\common\Wild West Pioneers\Traducao_PTBR\
+   Steam\steamapps\common\Wild West Pioneers\Traducao_WildWestPioners_PTBR\
    ```
 3. Dê dois cliques em `aplicar_traducao.bat` (ou rode `python aplicar_traducao.py`).
    Na primeira vez ele instala sozinho a dependência `UnityPy`.
