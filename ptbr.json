@@ -6510,5 +6510,18 @@
  "Achievement/ACHIEVEMENT_DES_99": "Construa duas Cabanas dos Lenhadores no primeiro dia",
  "Achievement/ACHIEVEMENT_DES_100": "Pule a noite",
  "Achievement/ACHIEVEMENT_DES_101": "Fique com apenas um morador",
- "Achievement/ACHIEVEMENT_DES_102": "Atinja o limite de moradores"
+ "Achievement/ACHIEVEMENT_DES_102": "Atinja o limite de moradores",
+ "BUILDINGS_UI/FARM_DESTROYING_WARNING_0": "Isso vai remover todos os campos restantes!",
+ "BUILDINGS_UI/RANCH_DESTROYING_WARNING_0": "Isso vai remover todos os pastos restantes!",
+ "BUILDINGS_UI/FIELDS_DESTROYING_WARNING_0": "Esta ação vai remover {[NUMBER]} campos que não estão mais ligados ao seu edifício.",
+ "BUILDINGS_UI/FIELDS_DESTROYING_WARNING_1": "Esta ação vai remover {[NUMBER]} pastos que não estão mais ligados ao seu edifício.",
+ "BUILDINGS_UI/TRADER_REFILL_TIMER_DES": "Tempo até o Comerciante receber uma nova remessa",
+ "MAINMENU_UI/SAVE_CORRUPTED": "ESTE ARQUIVO DE SAVE ESTÁ CORROMPIDO E NÃO PODE SER CARREGADO.",
+ "UI/DIORAMA_SKIP_BUTTON": "PULAR AVENTURA",
+ "UI/DIORAMA_HIGHLIGHT": "DESTACAR",
+ "Buildings/CANNING_WORKSHOP/DESCRIPTION_2": "Produz <sprite name=\"UI_Icon_Cans_64\"> a partir de <sprite name=\"UI_Icon_Soup_64\">, <sprite name=\"UI_Icon_Iron_Ore_64\">.",
+ "Tooltips/FARM_MOVE_DECLINE_DES": "Este edifício não pode ser movido porque tem um campo de cultivo ligado a ele.",
+ "Tooltips/FARM_MOVE_DECLINE_DES_1": "Este edifício não pode ser movido porque tem um pasto ligado a ele.",
+ "Tooltips/LOCATION_BLOCKED_WAY_TITLE": "Você não consegue chegar ao local",
+ "Tooltips/LOCATION_BLOCKED_WAY_DES": "O local anterior ainda não foi explorado"
 }
